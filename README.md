@@ -33,4 +33,4 @@ When run, this sample allows to submit new documents via a WebSocket and inserts
     }
 ```
 
-Get the complete example and run it! It uses Play 2.1 master, ReactiveMongo master and Play ReactiveMongo Plugin.
+Get the complete example and run it! It uses Play 2.1.0 and Play ReactiveMongo Plugin.
